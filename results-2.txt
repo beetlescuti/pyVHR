@@ -1,0 +1,384 @@
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_CHROM
+15.442203853906168%
+18.375 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_LGI
+23.225612538291408%
+27.75 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_POS
+24.10287508961357%
+29.25 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_PBV
+32.28086037688217%
+39.25 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_PCA
+27.78332285707143%
+34.0 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_GREEN
+30.10176429231774%
+36.25 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_ICA
+31.747131968101087%
+38.625 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_CHROM
+36.62348067980079%
+44.625 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_LGI
+35.56668528928506%
+43.125 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_POS
+31.95554928978909%
+38.625 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_PBV
+46.528289470830416%
+55.75 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_PCA
+37.29786919822767%
+45.125 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_GREEN
+43.98001726318273%
+52.5 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_ICA
+42.72541789013176%
+51.75 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_CHROM
+35.31975636040027%
+43.25 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_LGI
+35.11840822638504%
+42.75 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_POS
+30.626681321385092%
+37.0 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_PBV
+45.71843102010451%
+54.75 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_PCA
+36.5366733026977%
+44.375 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_GREEN
+43.63079237885349%
+52.0 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_ICA
+42.70623042975705%
+51.625 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+Detrend
+cpu_CHROM
+4.728758724437665%
+7.375 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+SG-Detrend
+cpu_CHROM
+35.31975636040027%
+43.25 Degree
+_____________________
+Dataset: own
+Skin processing method: Patch-based
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+Z-Score
+cpu_CHROM
+36.612059015649095%
+44.75 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+Detrend
+cpu_CHROM
+3.8808673912198697%
+6.0 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: Convex Hull
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+Detrend
+cpu_CHROM
+6.016620369003208%
+8.25 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+cpu_CHROM
+14.3570115296031%
+17.25 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+Detrend
+cpu_CHROM
+13.02065233745643%
+14.5 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+cpu_LGI
+21.24903802116416%
+25.571428571428573 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+cpu_POS
+20.80112169164631%
+25.142857142857142 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+cpu_POS
+20.80112169164631%
+25.142857142857142 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+Detrend
+cpu_LGI
+13.91358635450609%
+16.857142857142858 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+cpu_POS
+20.80112169164631%
+25.142857142857142 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+SG-Detrend
+cpu_POS
+19.24604822596657%
+23.571428571428573 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+Zero Mean
+cpu_LGI
+25.699685176666726%
+31.0 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+Zero Mean
+cpu_LGI
+25.699685176666726%
+31.0 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+Detrend
+cpu_LGI
+13.91358635450609%
+16.857142857142858 Degree
+_____________________
+Dataset: own
+Skin processing method: Holistic
+Skin extractor: BiSeNet
+Filters:
+RGB: (Low Threshold 10, High Threshold 245)
+BP: (Order 6, MinHz 0.65, MaxHz 4.0)
+Detrend
+cpu_POS
+12.533375659588886%
+15.571428571428571 Degree
+_____________________
